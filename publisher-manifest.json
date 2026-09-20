@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "45084584dfed87ebd34b8dcc",
+  "owner": "fdhmjypmcdw",
+  "repo": "page-862fe70f0588a5fb78dc0744",
+  "title": "可莉云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "862fe70f0588a5fb78dc0744",
+      "a": "可莉云",
+      "b": "2027官方最新地址导航",
+      "entity": "可莉云",
+      "brand": "可莉云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "097c141cf409f32aa8be3c551f8f71427bc787f6efba5675c6d80bca83de29e3",
+      "content": {
+        "primary_entity": "可莉云",
+        "keyword1": "可莉云",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备挑选客户端：Windows、macOS、iOS、Android 与路由器各有匹配版本，订阅导入方式以各自客户端文档为准。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLOSING_TEXT": "从基础版到团队版，按设备数与月流量选定套餐，再依客户端文档导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "选好套餐就配置",
+          "AI_DESCRIPTION": "，可莉云提供基础版、旗舰版与团队版三档，月付依次为 ¥15、¥35、¥85，年付仅需 ¥150、¥350、¥850。基础版含每月 100GB 流量与 3 台设备；旗舰版含每月 300GB 流量、5 台设备与 IPLC 专线游戏加速；团队版含每月 1000GB 流量、20 台设备与 VIP 专属高带宽节点。按日常设备数与流量选择档位，再依客户端文档配置订阅。",
+          "AI_FEATURES_INTRO": "从套餐档位、设备数量到订阅周期，三点帮你快速定位。",
+          "AI_FEATURES_TITLE": "挑选要点",
+          "AI_FEATURE_TEXT_1": "基础版 3 台设备、旗舰版 5 台、团队版 20 台，按常用设备总数选档位。",
+          "AI_FEATURE_TITLE_1": "按设备数选档",
+          "AI_FEATURE_TEXT_2": "三档月付 ¥15 / ¥35 / ¥85，年付折算为 ¥150 / ¥350 / ¥850，长期使用年付更省。",
+          "AI_FEATURE_TITLE_2": "按周期看价格",
+          "AI_FEATURE_TEXT_3": "基础版 100GB、旗舰版 300GB、团队版 1000GB 月流量，对照日常用量选择即可。",
+          "AI_FEATURE_TITLE_3": "按流量定档位",
+          "AI_GUIDE_INTRO": "选定套餐后，按设备适配、订阅导入、连接测试三步走完配置。",
+          "AI_GUIDE_TITLE": "配置三步",
+          "AI_HERO_INTRO": "可莉云面向跨区访问与流媒体场景，提供基础版、旗舰版、团队版三档套餐，覆盖 3 至 20 台设备与 100GB 至 1000GB 月流量，并支持 IPLC 专线游戏加速。按设备数和月用量选定档位，再依客户端文档导入订阅。",
+          "AI_HERO_SUBTITLE": "按设备与流量选套餐",
+          "AI_HIGHLIGHT_1": "旗舰版含 IPLC 专线游戏加速",
+          "AI_HIGHLIGHT_2": "三档覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_3": "年付折算每月更省",
+          "AI_PLANS_INTRO": "基础版适合轻度浏览，旗舰版适合多设备与流媒体，团队版适合高流量多人共用，对比设备数与月流量即可定位。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "按常用设备数量与每月流量，在基础版、旗舰版、团队版中选一档。",
+          "AI_STEP_TITLE_1": "选择服务档位",
+          "AI_STEP_TEXT_2": "查看所选客户端对系统版本与网络环境的要求，确认设备满足条件。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_3": "依对应客户端文档导入订阅信息，完成后连接测试，确认节点可用。",
+          "AI_STEP_TITLE_3": "配置订阅并测试",
+          "AI_VISUAL_TITLE": "可莉云套餐速览",
+          "AI_FAQ_ANSWER_1": "基础版不限设备类型，最多支持 3 台设备同时在线，套餐内流量为每月 100GB，超出后需要等待下月重置或升级套餐。",
+          "AI_FAQ_ANSWER_2": "旗舰版 35 元/月包含 300GB 流量，支持 5 台设备同时在线，配置 IPLC 专线节点，适合有游戏加速或流媒体解锁需求的个人用户。",
+          "AI_FAQ_ANSWER_3": "团队版 85 元/月提供 1000GB 流量，支持 20 台设备同时在线，并配有 VIP 高带宽节点和专属客户经理，适合小型团队或需要多设备并发的场景。",
+          "AI_FAQ_ANSWER_4": "年付方案相当于按月付费的十个月价格，基础版 150 元/年，旗舰版 350 元/年，团队版 850 元/年，适合使用周期超过十个月的用户。",
+          "AI_FAQ_ANSWER_5": "先根据设备数量选择基础版、旗舰版或团队版，再查看所选客户端文档完成订阅导入，连接节点即可开始使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版可以同时几台设备使用？",
+          "AI_FAQ_QUESTION_2": "旗舰版 35 元每月包含哪些权益？",
+          "AI_FAQ_QUESTION_3": "团队版适合什么使用场景？",
+          "AI_FAQ_QUESTION_4": "年付和月付价格差多少？",
+          "AI_FAQ_QUESTION_5": "如何选择适合自己的套餐？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "shangjiaedu.cn",
+    "host": "shangjiaedu.cn"
+  },
+  "file_hashes": {
+    "index.html": "97f1f2a14a803c99c89acbab117c025ffc467404fd368d0dfa9a5dfaff20019d",
+    "sitemap.xml": "fb46797d91fa82ae9141410b3ff6b27324cc0e462d185831d2a4c33daf1c2022",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "f7a228ca15d1fe20f355f910c58b480ac3ca2f42ce1870dbc95efa8c85e15813",
+    "robots.txt": "33cc8c205e96a155a416dd82164a30c5f72ce4dfc15f492ea82038a51f0d8b0a",
+    "822f8686ffcd5097a18915c9f5f0a438.txt": "357f6179acdffe939f7ef21e9cad72f7927243042201bc0e25aec957aafcb3e6"
+  },
+  "revision": "a2d978f5f0c96c7ab6f5b55061c337cf7dee1b30030e1234aa737e3533723ba3"
+}
